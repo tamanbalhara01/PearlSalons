@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Aarohi Mehta", "rating": 5, "text": "My bridal makeup stayed flawless the entire day. The team was calm, professional, and knew exactly what I wanted.", "service": "Bridal Package", "location": "South Delhi Studio" },
+  { "id": 2, "name": "Ritika S.", "rating": 5, "text": "Best hair cut I have had in years. Detailed consultation, clean finish, and the blowout lasted three days.", "service": "Hair Styling", "location": "Gurugram Central" },
+  { "id": 3, "name": "Naina Verma", "rating": 4, "text": "Super clean space, friendly staff and the facial was relaxing and effective. Booking was simple too.", "service": "Skin Ritual", "location": "Golf Course Road Lounge" }
+]
